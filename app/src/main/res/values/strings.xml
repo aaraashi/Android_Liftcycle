@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">JuheeKim_COMP304Lab1_Ex2</string>
+    <string name="headText">Life Cycle Methods Demonstration</string>
+    <string name="main_activity">Main Activity:</string>
+
+    <string-array name="activities">
+        <item>"AIActivity"</item>
+        <item>"ARActivity"</item>
+    </string-array>
+</resources>
